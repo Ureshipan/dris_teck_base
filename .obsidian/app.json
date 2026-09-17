@@ -2,5 +2,6 @@
   "attachmentFolderPath": "Attachments",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newLinkFormat": "relative"
 }
